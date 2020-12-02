@@ -1,0 +1,23 @@
+{
+  "name": "sample-node-socketio",
+  "version": "0.1.0",
+  "description": "Sample application with Node.js and the framework Socket.IO",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon node app.js",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "author": "Leo Unbekandt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.x",
+    "socket.io": "3.x"
+  },
+  "devDependencies": {
+    "nodemon": "2.x"
+  }
+}
