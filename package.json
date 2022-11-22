@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "4.x",
-    "socket.io": "3.x"
+    "socket.io": "4.x"
   },
   "devDependencies": {
     "nodemon": "2.x"
