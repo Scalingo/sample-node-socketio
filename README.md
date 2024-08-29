@@ -18,6 +18,15 @@ And that's it!
 
 [![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/Scalingo/sample-node-socketio#master)
 
+## Running Locally
+
+```shell
+docker compose build
+docker compose run --rm web npm install
+docker compose up
+```
+
+
 ## Links
 
 Documentation: https://doc.scalingo.com/languages/nodejs/websocket-web-same-port
