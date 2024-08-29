@@ -1,6 +1,7 @@
 {
   "name": "Sample Node.js Socket.IO",
   "description": "Sample web application using the Node.js Socket.IO framework",
+  "logo": "https://raw.githubusercontent.com/Scalingo/sample-node-socketio/master/logo.png",
   "repository": "https://github.com/Scalingo/sample-node-socketio",
   "website": "https://scalingo.com",
   "formation": {
